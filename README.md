@@ -1,4 +1,5 @@
-# bayc
+# bayc clone 
+# ref: https://boredapeyachtclub.com/
 
 ## Project setup
 ```
